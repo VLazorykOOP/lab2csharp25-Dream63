@@ -1,0 +1,15 @@
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.sourcelink.json
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\GitStudy\cross-platform\lab2csharp25-Dream63\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
